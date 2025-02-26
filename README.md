@@ -1,2 +1,15 @@
-# self
-Simple Telegram account management project (Self)
+# CircuitSeed Telegram Bot 🤖
+ربات تلگرام با قابلیتهای مدیریتی، سرگرمی، و پاسخگویی خودکار.
+
+## ویژگیها ✨
+- تغییر خودکار زمان در بیو و اسم
+- پاسخگویی به دشمنان با لیست فحشهای قابل تنظیم
+- مدیریت سکوت و بن کاربران در گروه
+- انیمیشنهای سرگرمکننده (قلب، جق، هک و...)
+- ذخیره خودکار عکس/ویدئوهای تایمردار
+
+## نصب و راهاندازی 🚀
+1. **کلون پروژه**:
+   ```bash
+   git clone https://github.com/YourUsername/CircuitSeed-TelegramBot.git
+   cd CircuitSeed-TelegramBot
