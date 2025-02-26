@@ -11,5 +11,5 @@
 ## نصب و راهاندازی 🚀
 1. **کلون پروژه**:
    ```bash
-   git clone https://github.com/YourUsername/CircuitSeed-TelegramBot.git
-   cd CircuitSeed-TelegramBot
+   git clone https://github.com/TheEsmaeil1/self.git
+   cd self
