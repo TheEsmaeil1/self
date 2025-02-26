@@ -10,6 +10,16 @@
 
 ## نصب و راهاندازی 🚀
 1. **کلون پروژه**:
-   ```bash
-   git clone https://github.com/TheEsmaeil1/self.git
-   cd self
+```bash
+git clone https://github.com/TheEsmaeil1/self.git
+cd self
+```
+
+## نصب کتابخانه ها :
+```bash
+pip install -r requirements.txt
+```
+
+## تنظیمات
+1. مقادیر api_id و api_hash را از my.telegram.org دریافت و در main.py جایگزین کنید.
+2. 
