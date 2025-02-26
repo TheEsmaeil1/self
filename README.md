@@ -22,4 +22,27 @@ pip install -r requirements.txt
 
 ## تنظیمات
 1. مقادیر api_id و api_hash را از my.telegram.org دریافت و در main.py جایگزین کنید.
-2. 
+2. اجرا :
+```bash
+python main.py
+```
+
+## دستورات :
+.help: نمایش منوی اصلی
+
+.status: وضعیت ربات
+
+.enemypanel: مدیریت دشمنان
+
+.gameing on/off: حالت گیمینگ
+
+.timename on/off: نمایش زمان در اسم
+
+## نکات امنیتی :
+هرگز api_id و api_hash را به اشتراک نگذارید.
+
+این ربات ممکن است توسط تلگرام محدود شود. استفاده با احتیاط!
+
+## توسعهدهنده :
+Info : @CircuitSeed - @theesmaeil1
+
