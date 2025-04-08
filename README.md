@@ -44,5 +44,5 @@ python main.py
 این ربات ممکن است توسط تلگرام محدود شود. استفاده با احتیاط!
 
 ## توسعهدهنده :
-Info : @CircuitSeed - @theesmaeil1
+Info : @CodeEpic - @theesmaeil1
 
